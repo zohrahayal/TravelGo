@@ -16,6 +16,6 @@ function bookChefchaouen() {
 }
 function bookAgadir() {
     alert(" Do you want to book a trip to Agadir? ")
-    
+
 }
 
