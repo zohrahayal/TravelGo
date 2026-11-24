@@ -18,4 +18,8 @@ function bookAgadir() {
     alert(" Do you want to book a trip to Agadir? ")
 
 }
+function namee() {let name = prompt("taper votre nom")
+    alert(" welcome "+ name)
 
+    
+}
